@@ -83,39 +83,85 @@ Groups are limited to one permit per calendar year for physical displays and one
 4. Park rangers have the authority to determine if noise levels are excessive and to require immediate cessation of any disruptive sounds.
 5. Violation of noise restrictions may result in immediate revocation of the protest permit and removal from the premises.
 
-## Section 4: Compliance and Enforcement
+## Section 4: Counter-Protests
 
-### 4.1 Permit Display
+### 4.1 Definition
+A counter-protest is defined as any demonstration or display organized in response to a previously permitted protest event.
+
+### 4.2 Permit Requirement
+1. Counter-protests require a separate permit and are subject to all regulations outlined in Sections 1-3.
+2. The permit application process for counter-protests follows the same procedures as outlined in Section 2.
+
+### 4.3 Timing of Application
+1. Counter-protest permit applications must be submitted within 5 business days of the publication of the original protest event on the park's website.
+2. Late applications may be considered at the discretion of park management, but are not guaranteed.
+
+### 4.4 Display Restrictions
+1. Counter-protests are limited to hand-held signs only.
+2. No fixed displays, banners, or projections are permitted for counter-protests.
+3. Hand-held signs must not exceed 3 feet by 2 feet in size.
+4. Signs must be made of cardboard, posterboard, or other light materials that do not pose a safety risk.
+5. No signs may be affixed to poles, sticks, or other potential weapons.
+
+### 4.5 Location
+1. Counter-protests will be assigned a separate, designated area from the original protest to maintain public safety and order.
+2. The designated area will be determined by park management and will be at a reasonable distance from the original protest site.
+3. The size of the designated area will be appropriate for a group using hand-held signs only.
+
+### 4.6 Time Restrictions
+1. Counter-protests are limited to the same time frame as the original protest event.
+2. Park management may stagger start and end times to facilitate crowd management.
+
+### 4.7 Interaction Between Groups
+1. Direct engagement or interference between protesting groups is strictly prohibited.
+2. A neutral buffer zone will be established between protest and counter-protest areas.
+3. Park rangers will monitor both areas to ensure compliance and maintain order.
+
+### 4.8 Equal Application of Rules
+1. All rules, including those pertaining to noise restrictions, clean-up, and fines for non-compliance, apply equally to both the original protesters and counter-protesters.
+2. The restriction to hand-held signs does not exempt counter-protests from other regulations, including those pertaining to content neutrality and non-commercial messages.
+
+### 4.9 Compliance with General Regulations
+1. Counter-protests must comply with all applicable regulations outlined in Sections 1-3, including but not limited to:
+   - Noise restrictions
+   - Time restrictions
+   - Clean-up requirements
+   - Fines for non-compliance
+2. The restriction to hand-held signs does not exempt counter-protests from other regulations, including those pertaining to content neutrality and non-commercial messages.
+
+## Section 5: Compliance and Enforcement
+
+### 5.1 Permit Display
 1. The approved permit must be carried and displayed prominently at the protest site at all times.
 2. All participants must be able to produce a copy of the permit upon request by park officials.
 
-### 4.2 Time Window
+### 5.2 Time Window
 1. The permit will specify exact dates and times for entry, setup, display, takedown, and exit.
 2. All activities, including cleanup, must be completed within this window.
 
-### 4.3 Clean-up
+### 5.3 Clean-up
 1. All materials must be removed by permit holders.
 2. The site must be restored to its original condition.
 
-### 4.4 Fines for Non-Compliance
+### 5.4 Fines for Non-Compliance
 1. Protesters or organizations who remain beyond the specified time window will be subject to the following fines:
    - $1,000 per hour for the first 3 hours
    - $5,000 per hour thereafter
 2. Fines apply to any protester or associated individual remaining on site.
 
-### 4.5 Post-Protest Restrictions
+### 5.5 Post-Protest Restrictions
 1. Permit holders, participants, and affiliated individuals or organizations may not continue protesting at the same location as unaffiliated citizens after their permit expires.
 2. Violation may result in fines and future permit ineligibility.
 
-### 4.6 Enforcement
+### 5.6 Enforcement
 1. Park rangers have the authority to enforce these regulations and issue citations.
 2. Repeat violations may result in bans from future permit eligibility.
 3. Park management reserves the right to revoke permits for violations or unforeseen safety concerns.
 
-## Section 5: Amendments
+## Section 6: Amendments
 
-### 5.1 Authority
+### 6.1 Authority
 The Superintendent of Yosemite National Park may amend these regulations as necessary to ensure the safety of visitors and the preservation of park resources.
 
-### 5.2 Public Notice
+### 6.2 Public Notice
 Any amendments to these regulations will be posted on the official Yosemite National Park website and at the park's visitor centers at least 30 days before taking effect.
