@@ -165,3 +165,53 @@ The Superintendent of Yosemite National Park may amend these regulations as nece
 
 ### 6.2 Public Notice
 Any amendments to these regulations will be posted on the official Yosemite National Park website and at the park's visitor centers at least 30 days before taking effect.
+
+## Section 7: Crowd Size Limits
+
+> **Note:** The numbers in this section are placeholders and require further research and consultation. To determine appropriate limits:
+> * Consult with Yosemite National Park management to understand current practices and capacities.
+> * Seek input from park rangers who have on-the-ground experience with crowd management in various park areas.
+> * Review historical data on group sizes and their impacts in different park locations.
+> * Consider seasonal variations, as appropriate crowd sizes might differ greatly between peak and off-peak seasons.
+
+### 7.1 General Provisions
+1. To ensure public safety, minimize environmental impact, and maintain the park experience for all visitors, crowd size limits apply to all protest and counter-protest activities.
+2. These limits are subject to adjustment based on location, season, and park conditions.
+
+### 7.2 Protest Participant Limits
+1. The maximum number of participants for a permitted protest is as follows:
+   a. In developed areas: 200 people
+   b. In frontcountry areas: 100 people
+   c. In backcountry areas: 50 people
+2. These limits include all individuals directly involved in the protest activities.
+
+### 7.3 Counter-Protest Participant Limits
+1. The maximum number of participants for a permitted counter-protest is 50% of the approved number for the original protest, not to exceed 100 people.
+2. This limit applies regardless of the location within the park.
+
+### 7.4 Media and Observer Limits
+1. A maximum of 20 credentialed media personnel will be allowed at each protest or counter-protest site.
+2. Park management may designate a separate area for media to ensure their activities do not interfere with the protest or park operations.
+3. The number of observers or spectators may be limited by park management based on safety considerations and available space.
+
+### 7.5 Total Crowd Size Management
+1. The total crowd size, including protesters, counter-protesters, media, and observers, must not exceed the safe capacity of the designated area as determined by park management.
+2. Park rangers have the authority to disperse crowds or deny entry to additional individuals if the total crowd size poses safety risks or significantly disrupts normal park operations.
+
+### 7.6 Permit Applications
+1. Protest permit applications must specify the expected number of participants.
+2. If the expected number exceeds the limits specified in 7.2, the application may be denied or the applicant may be asked to reduce the number of participants.
+
+### 7.7 Exceeding Limits
+1. If the number of participants exceeds the permitted amount, park rangers may:
+   a. Request that excess participants leave the area
+   b. Revoke the protest permit if the organizers fail to comply
+   c. Issue fines as specified in Section 5.4
+
+### 7.8 Special Considerations
+1. In extraordinary circumstances, the park superintendent may authorize larger crowd sizes, provided that:
+   a. Adequate safety measures can be implemented
+   b. The environmental impact can be mitigated
+   c. The event does not significantly impair the experience of other park visitors
+
+2. Such authorizations must be explicitly stated in the protest permit.
