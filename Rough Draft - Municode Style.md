@@ -180,9 +180,9 @@ Any amendments to these regulations will be posted on the official Yosemite Nati
 
 ### 7.2 Protest Participant Limits
 1. The maximum number of participants for a permitted protest is as follows:
-   a. In developed areas: 200 people
-   b. In frontcountry areas: 100 people
-   c. In backcountry areas: 50 people
+   - In developed areas: 200 people
+   - In frontcountry areas: 100 people
+   - In backcountry areas: 50 people
 2. These limits include all individuals directly involved in the protest activities.
 
 ### 7.3 Counter-Protest Participant Limits
@@ -204,14 +204,14 @@ Any amendments to these regulations will be posted on the official Yosemite Nati
 
 ### 7.7 Exceeding Limits
 1. If the number of participants exceeds the permitted amount, park rangers may:
-   a. Request that excess participants leave the area
-   b. Revoke the protest permit if the organizers fail to comply
-   c. Issue fines as specified in Section 5.4
+   - Request that excess participants leave the area
+   - Revoke the protest permit if the organizers fail to comply
+   - Issue fines as specified in Section 5.4
 
 ### 7.8 Special Considerations
 1. In extraordinary circumstances, the park superintendent may authorize larger crowd sizes, provided that:
-   a. Adequate safety measures can be implemented
-   b. The environmental impact can be mitigated
-   c. The event does not significantly impair the experience of other park visitors
+   - Adequate safety measures can be implemented
+   - The environmental impact can be mitigated
+   - The event does not significantly impair the experience of other park visitors
 
 2. Such authorizations must be explicitly stated in the protest permit.
