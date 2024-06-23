@@ -83,10 +83,7 @@ Groups are limited to one permit per calendar year for physical displays and one
 4. Park rangers have the authority to determine if noise levels are excessive and to require immediate cessation of any disruptive sounds.
 5. Violation of noise restrictions may result in immediate revocation of the protest permit and removal from the premises.
 
-## Section 3: Display Regulations
-
 ### 3.9 Prohibited Content and Groups
-
 1. To maintain a welcoming environment for all park visitors and to preserve the park's neutrality, the following are prohibited in all protest and counter-protest activities:
 
    1. Hate speech, defined as speech that attacks, threatens, or insults a person or group on the basis of national origin, ethnicity, color, religion, gender, gender identity, sexual orientation, or disability.
