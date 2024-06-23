@@ -83,6 +83,35 @@ Groups are limited to one permit per calendar year for physical displays and one
 4. Park rangers have the authority to determine if noise levels are excessive and to require immediate cessation of any disruptive sounds.
 5. Violation of noise restrictions may result in immediate revocation of the protest permit and removal from the premises.
 
+## Section 3: Display Regulations
+
+### 3.9 Prohibited Content and Groups
+
+1. To maintain a welcoming environment for all park visitors and to preserve the park's neutrality, the following are prohibited in all protest and counter-protest activities:
+
+   1. Hate speech, defined as speech that attacks, threatens, or insults a person or group on the basis of national origin, ethnicity, color, religion, gender, gender identity, sexual orientation, or disability.
+   
+   2. Displays or messages promoting specific religious beliefs or practices.
+   
+   3. Displays or messages from or promoting hate groups, defined as organizations whose primary purpose is to promote animosity, hostility, and malice against persons belonging to a race, religion, disability, sexual orientation, ethnicity, or gender identity which differs from that of the members of the organization.
+
+2. The park reserves the right to deny permits to groups or individuals with a documented history of promoting hate speech or engaging in violent or discriminatory behavior.
+
+3. This prohibition does not extend to discussions of religion or religious concepts in a historical, philosophical, or comparative context that do not promote specific religious beliefs or practices.
+
+4. Decisions regarding the application of these prohibitions will be made by park management in consultation with legal counsel, with a commitment to viewpoint neutrality and in accordance with current First Amendment jurisprudence.
+
+5. Appeals to decisions made under this section may be made in writing to the park superintendent within 5 business days of the decision.
+
+> **Note on Religious Discussions (Point 3.9, 3):** 
+> The intent of point 3 is to distinguish between religious proselytization and academic or comparative discussions about religion. For example:
+> 
+> * Allowed: A display discussing the historical impact of various religions on national park policies, a comparative presentation on how different cultures and religions view nature conservation, or a philosophical debate on the relationship between spirituality and environmentalism.
+> 
+> * Not Allowed: A display promoting conversion to a specific religion, signs declaring religious doctrines as absolute truth, or distribution of religious texts aimed at spreading a particular faith.
+> 
+> This distinction aims to maintain the park's neutrality on matters of religion while still allowing for educational, historical, or comparative discussions that involve religious topics. The application of this rule may require case-by-case evaluation in consultation with legal counsel.
+
 ## Section 4: Counter-Protests
 
 ### 4.1 Definition
